@@ -198,8 +198,8 @@ body::-webkit-scrollbar {
 
 /* ---MAIN----------------------------------------- */
 
-.main {
-}
+/* .main {
+} */
 
 /* ---SECTION-1---------------------------------------- */
 
@@ -307,8 +307,8 @@ body::-webkit-scrollbar {
     transition: .3s ease-in-out;
 }
 
-.slider__item {
-}
+/* .slider__item {
+} */
 
 .slider__item_box {
     width: 300px;
@@ -468,9 +468,8 @@ body::-webkit-scrollbar {
 
 /* ---SECTION-3---------------------------------------- */
 
-.section-3 {
-    
-}
+/* .section-3 {
+} */
 
 .section-3__text {
     font-size: 16px;
